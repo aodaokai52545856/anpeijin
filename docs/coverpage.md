@@ -2,7 +2,7 @@
 
 > A Knowledge Repository.
 
-[Get Started](#peijinblog)
+[Get Started](#docsify)
 
 ![](_media/peijin.jpg)
 

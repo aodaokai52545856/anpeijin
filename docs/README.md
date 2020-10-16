@@ -1,6 +1,6 @@
 # y
 
-> test
+> test 这是一个文件
 
 ## Build Setup
 
