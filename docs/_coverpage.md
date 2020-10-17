@@ -2,7 +2,7 @@
 
 > A Knowledge Repository.
 
-[Get Started](#README)
+[Get Started](#peijin)
 
 ![](_media/peijin.jpg)
 

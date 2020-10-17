@@ -1,3 +1,2 @@
-* [](/)
-* [开始了解](/README)
-* [指南](test/peijin)
+* 开始了解
+    * [谁是小培锦](test/peijin)
